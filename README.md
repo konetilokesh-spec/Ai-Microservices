@@ -1,4 +1,4 @@
-🧭 API Documentation
+API Documentation
 1️⃣ Overview
 Service	Description	Example Port	Base URL
 resume-parser	Extracts structured information from resumes (skills, experience, education)	8000	http://localhost:8000
